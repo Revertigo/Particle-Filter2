@@ -6,8 +6,8 @@
 
 # Overview
 This project is an implementation of paritcle filter algorithm as part of Navigation Algorithms course.
-This time, the algorithm uses a real data in order to track and locate the moving target. The data split into four categories:  
-- Map data i.e. the (X,Y) location of the landmarks  
-- Control data i.e. velocity and yaw rate (rotation rate, angular velocity) of the moving target (Robot)  
-- Ground Truth i.e. the actual location of the moving target  
-- Observations from landmarks  
+This time, the algorithm uses a real data in order to track and locate the moving target (Robot). The data split into four categories:  
+- Map data - the (X,Y) location of the landmarks  
+- Control data - velocity and yaw rate (rotation rate, angular velocity) of the moving target  
+- Ground Truth - the actual postion of the moving target in (X,Y)  
+- Observations from landmarks
