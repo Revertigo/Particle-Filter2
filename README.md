@@ -1,7 +1,5 @@
 # Particle-Filter2
-
-![particle-filter](https://user-images.githubusercontent.com/46284863/105254170-97c74c00-5b89-11eb-9528-7ed3122589b8.gif)
-
+![particle-filter](https://user-images.githubusercontent.com/46284863/105254449-4ff4f480-5b8a-11eb-98cd-637b7879ca60.gif)
 # TABLE OF CONTENTS
 * [Overview](#overview)
 
